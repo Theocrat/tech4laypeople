@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="nightmode.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.084945"
+     inkscape:cx="6.4170883"
+     inkscape:cy="23.384865"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs2663">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 24 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="48 : 24 : 1"
+       inkscape:persp3d-origin="24 : 16 : 1"
+       id="perspective3235" />
+  </defs>
+  <metadata
+     id="metadata2666">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6c5353;fill-opacity:1;stroke:none"
+       id="text3253"
+       transform="matrix(2.1826361,0,0,2.1826361,-26.456309,-33.682924)">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#6c5353;stroke-width:2.39720035"
+         d="m 19.875,16.4375 c -1.779172,0 -3.263105,0.608845 -4.449219,1.826172 -1.186115,1.217329 -1.779297,2.699307 -1.779297,4.447266 0,1.747957 0.593182,3.229936 1.779297,4.447265 1.186114,1.186114 2.670047,1.779297 4.449219,1.779297 0.581379,0 1.130193,-0.07523 1.654297,-0.214844 -0.947336,-0.281746 -1.784293,-0.78234 -2.509766,-1.507812 -1.186115,-1.217329 -1.779297,-2.701261 -1.779297,-4.449219 0,-1.747959 0.593182,-3.229937 1.779297,-4.447266 0.7811,-0.801655 1.692177,-1.333686 2.730469,-1.607421 C 21.161423,16.529332 20.538082,16.4375 19.875,16.4375 Z"
+         id="path3255"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(5.09264,1.5679367)"
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none"
+       id="text3253-7" />
+    <g
+       transform="matrix(1.2530798,0,0,1.2530798,8.423837,4.9996516)"
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3253-7-1"
+       inkscape:transform-center-x="-8.3068244"
+       inkscape:transform-center-y="1.2875583">
+      <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#ac9393;stroke-width:2.39720035"
+         d="M 2.4648438,10.025391 0.61328125,14.986328 H 4.4511719 L 2.5996094,10.025391 Z m 8.1640622,3.283203 -4.8183591,2.197265 2.7148437,2.714844 2.1972654,-4.818359 z m -16.4472654,0.224609 -0.09375,0.09375 2.1972656,4.818359 L -1,15.732422 Z m 8.5039063,1.998047 c -1.77917219,0 -3.26310461,0.608845 -4.4492188,1.826172 -1.1861153,1.217329 -1.7792969,2.699307 -1.7792969,4.447266 3e-7,1.747958 0.5931816,3.23189 1.7792969,4.449218 1.18611422,1.186114 2.67004663,1.779297 4.4492188,1.779297 1.7167453,0 3.1830619,-0.608843 4.4003906,-1.826172 1.2173287,-1.217326 1.8261719,-2.685599 1.8261719,-4.402343 0,-1.747959 -0.6088432,-3.229937 -1.8261719,-4.447266 C 5.8686088,16.140095 4.4022922,15.53125 2.6855469,15.53125 Z m -6.7285157,4.431641 -4.9609374,1.851562 v 0.132813 l 4.9609374,1.853515 z m 13.390625,0 v 3.83789 l 4.9609378,-1.851562 v -0.134766 z m -13.0058593,5.011718 -2.1992188,4.81836 0.095703,0.09375 4.81835942,-2.197266 z m 12.1269531,0.226563 -2.7148438,2.71289 4.8183598,2.199219 0.09375,-0.0957 z m -7.85546875,3.175781 1.85156255,4.960938 h 0.1347656 l 1.8515625,-4.960938 z"
+         transform="translate(17.189236,0.90601619)"
+         id="path3255-1-1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299"
+       transform="matrix(1.3189099,0,0,1,-13.472029,3.5014675)" />
+    <g
+       transform="matrix(1.4443048,-1.0954679,0.66919602,2.3643142,-7.705672,-1.2048457)"
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
+       id="text3299-7" />
+    <g
+       transform="matrix(1.4443048,-1.0954679,0.66919602,2.3643142,-30.454351,-16.48379)"
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
+       id="text3299-7-4" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-8"
+       transform="matrix(1.3189099,0,0,-1,-13.472211,42.888563)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-1"
+       transform="matrix(0,1.3189099,-1,0,23.844762,5.8901726)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-8-6"
+       transform="matrix(0,1.3189099,1,0,-15.542334,5.8899906)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-19"
+       transform="matrix(0.93261013,0.93261013,-0.70710678,0.70710678,5.48119,-3.1919406)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-8-8"
+       transform="matrix(0.93261013,0.93261013,0.70710678,-0.70710678,-22.369822,24.658813)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-1-8"
+       transform="matrix(-0.93261013,0.93261013,-0.70710678,-0.70710678,30.179075,24.884085)" />
+    <g
+       aria-label="."
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ac9393;fill-opacity:1;stroke:none"
+       id="text3299-8-6-0"
+       transform="matrix(-0.93261013,0.93261013,0.70710678,0.70710678,2.328323,-2.9669265)" />
+  </g>
+</svg>

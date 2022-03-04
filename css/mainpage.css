@@ -1,0 +1,31 @@
+.article-list {
+    margin: auto;
+    width: 60%;
+    text-align: left;
+}
+
+.article {
+    border-color: #def;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.article:hover {
+    background-color: #def;
+}
+
+.article-title {
+    margin: auto;
+    width: 80%;
+    text-align: left;
+    font-size: 36px;
+    font-family: Helvetica;    
+}
+
+.article-desc {
+    margin: auto;
+    width: 80%;
+    font-size: 18px;
+    text-align: justify;
+    font-family: Georgia;
+}

@@ -1,0 +1,11 @@
+.control-table {
+    background-color: #edd;
+    border-spacing: 24px;
+    text-align: center;
+    margin: auto;
+}
+
+.control {
+    text-align: center;
+    width: 100px
+}

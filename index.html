@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Technology for Laypeople</title>
+    
+    <script type="text/javascript" src="js/controls.js"></script>
+    
+    <link rel="stylesheet" href="css/commons.css">
+    <link rel="stylesheet" href="css/controls.css">
+    <link rel="stylesheet" href="css/mainpage.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Technology for Laypeople</h1>
+    </div>
+    
+    <div class="controls">
+        <table class="control-table">
+            <tr>
+                <td class="control">
+                    <img src="svg/fonts.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Select Font">
+                    </img>
+                </td>
+                
+                <td class="control">
+                    <img src="svg/size.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Font Size">
+                    </img>
+                </td>
+                
+                <td>
+                    <img src="svg/nightmode.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Toggle Night Mode">
+                    </img>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="control">
+                    <select id="font-selector" onchange="changefont()">
+                        <option value="arial">Arial</option>
+                        <option value="sans" >Sans </option>
+                    </select>
+                </td>
+                
+                <td class="control">
+                    <select id="size-selector" onchange="changesize()">
+                        <option value="12">12</option>
+                        <option value="14">14</option>
+                        <option value="16">16</option>
+                        <option value="18">18</option>
+                        <option value="20">20</option>
+                        <option value="22">22</option>
+                    </select>
+                </td>
+                
+                <td class="control">
+                    <button id="nightmode" onclick="nightmode()">
+                        Night Mode
+                    </button>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="gap"></div>
+    <div class="gap"></div>
+    
+    <div class="article-list">
+        <div class="article" title="(not yet published)">
+            <div class="gap"></div>
+            
+            <p class="article-title" href="unpublished.html">
+                <a href="unpublished.html">
+                    What really is Artificial Intelligence?
+                </a>
+            </p>
+            
+            <p class="article-desc">
+                In recent years, we have seen the rise of artificial 
+                intelligence as a technology. Science fiction writers, 
+                of course, have written about it for a long time. And 
+                yet, the fact that we would one day actually be able to 
+                make computers think like us is something none of us
+                could have believed easily.
+            </p>
+            
+            <p class="article-desc">
+                But what really is Artificial Intelligence? Behind the 
+                gobbledegook of tech jargon and buzzwords, how does
+                artificial intelligence really work? This article is an 
+                explanation of the basics of how modern AI systems work
+                and do the awesome magic they do - from recognizing
+                faces and understanding speech to translating text 
+                between langauges and even driving cars.
+            </p>
+            
+            <div class="gap"></div>
+        </div>
+        
+        <div class="gap"></div>
+        
+        <div class="article" title="(not yet published)">
+            <div class="gap"></div>
+            
+            <p class="article-title">
+                <a href="unpublished.html">
+                    Stochastic Gradient Descent
+                </a>
+            </p>
+            
+            <p class="article-desc">
+                In my <a href="unpublished.html">last article</a>, 
+                I wrote about the special methods for solving arithmetic
+                problems which take advantage of repetition. As I said
+                before, these methods are known as Numerical 
+                Optimization and we use them to make our AI model get
+                good at solving problems that humans are meant to solve.
+            </p>
+            
+            <p class="article-desc">
+                In this article, I will describe one of the major 
+                Numerical Methods in use - a particularly useful method
+                known as the Stochastic Gradient Descent. Since this is
+                considered a rather advanced topic, I will begin slowly,
+                starting with a brief description of calculus since we 
+                make use of calculus in the Stochastic Gradient Descent
+                method.
+            </p>
+            
+            <div class="gap"></div>
+        </div>
+    </div>
+</body>
+</html>

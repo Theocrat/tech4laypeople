@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Unpublished Article</title>
+    
+    <script type="text/javascript" src="js/controls.js"></script>
+    
+    <link rel="stylesheet" href="css/commons.css">
+    <link rel="stylesheet" href="css/controls.css">
+</head>
+
+<body>
+    <div class="header">
+        <h3>Sorry, this article is yet to be published</h3>
+    </div>
+    
+    <div class="controls">
+        <table class="control-table">
+            <tr>
+                <td class="control">
+                    <img src="svg/fonts.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Select Font">
+                    </img>
+                </td>
+                
+                <td class="control">
+                    <img src="svg/size.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Font Size">
+                    </img>
+                </td>
+                
+                <td>
+                    <img src="svg/nightmode.svg"
+                         width="48px" 
+                         height="48px"
+                         title="Toggle Night Mode">
+                    </img>
+                </td>
+            </tr>
+            
+            <tr>
+                <td class="control">
+                    <select id="font-selector" onchange="changefont()">
+                        <option value="arial">Arial</option>
+                        <option value="sans" >Sans </option>
+                    </select>
+                </td>
+                
+                <td class="control">
+                    <select id="size-selector" onchange="changesize()">
+                        <option value="12">12</option>
+                        <option value="14">14</option>
+                        <option value="16">16</option>
+                        <option value="18">18</option>
+                        <option value="20">20</option>
+                        <option value="22">22</option>
+                    </select>
+                </td>
+                
+                <td class="control">
+                    <button id="nightmode" onclick="nightmode()">
+                        Night Mode
+                    </button>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    <div class="gap"></div>
+    <div class="gap"></div>
+    
+    <div class="content">
+        <p>
+            This article has not yet been published. Please wait for 
+            some time, I will get around to publishing this article
+            eventually, when I can make some time for it.
+        </p>
+        
+        <p>
+            You are probably on this page because you found a link to 
+            this article. I placed that link there as a placeholder,
+            and I intend to make this article available as soon as it is
+            ready for publication.
+        </p>
+        
+        <p>
+            Have a great day!
+        </p>
+    </div>
+    
+    <div class="hline"></div>
+    
+    <div style="text-align:center; font-size:12px;">
+        <br/>
+        <a href="index.html">
+            <img src="svg/home.svg" height="16px" width="16px">
+            RETURN TO HOME PAGE
+            <img src="svg/home.svg" height="16px" width="16px">
+        </a>
+    </div>
+</body>

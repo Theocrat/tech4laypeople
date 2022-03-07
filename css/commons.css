@@ -1,4 +1,4 @@
-a {
+.daylink {
     text-decoration: none;
     color: black;
 }
@@ -6,7 +6,7 @@ a {
 .header {
     text-align: center;
     font-family: Freesans;
-    font-size: 36px;
+    font-size: 28px;
 }
 
 .gap {
@@ -28,4 +28,10 @@ a {
     width: 40%;
     margin: auto;
     background-color: #888;
+}
+
+.self-intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    
 }

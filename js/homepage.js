@@ -34,12 +34,7 @@ function renderArticleList() {
 
     if(screen.width < 1000) {
         // Probably a mobile device
-        document.querySelectorAll('.article').forEach(
-            article => {
-                article.style.width = '100%'
-            }
-        )
-
+        document.querySelectorAll('.article-list')[0].style.width = '100%'
         document.querySelectorAll('.intro')[0].style.width = '100%'
     }
  }

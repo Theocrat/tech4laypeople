@@ -13,68 +13,15 @@
     <link rel="stylesheet" href="css/controls.css">
 </head>
 
-<body>
+<body onload="renderControls()">
     <div class="header">
         <h3>Sorry, this article is yet to be published</h3>
     </div>
-    
-    <div class="controls">
-        <table class="control-table">
-            <tr>
-                <td class="control">
-                    <img src="svg/fonts.svg"
-                         width="48px" 
-                         height="48px"
-                         title="Select Font">
-                    </img>
-                </td>
-                
-                <td class="control">
-                    <img src="svg/size.svg"
-                         width="48px" 
-                         height="48px"
-                         title="Font Size">
-                    </img>
-                </td>
-                
-                <td>
-                    <img src="svg/nightmode.svg"
-                         width="48px" 
-                         height="48px"
-                         title="Toggle Night Mode">
-                    </img>
-                </td>
-            </tr>
-            
-            <tr>
-                <td class="control">
-                    <select id="font-selector" onchange="changefont()">
-                        <option value="arial">Arial</option>
-                        <option value="sans" >Sans </option>
-                    </select>
-                </td>
-                
-                <td class="control">
-                    <select id="size-selector" onchange="changesize()">
-                        <option value="12">12</option>
-                        <option value="14">14</option>
-                        <option value="16">16</option>
-                        <option value="18">18</option>
-                        <option value="20">20</option>
-                        <option value="22">22</option>
-                    </select>
-                </td>
-                
-                <td class="control">
-                    <button id="nightmode" onclick="nightmode()">
-                        Night Mode
-                    </button>
-                </td>
-            </tr>
-        </table>
-    </div>
-    
+
     <div class="gap"></div>
+    
+    <div id="controlTable"></div>
+
     <div class="gap"></div>
     
     <div class="content">

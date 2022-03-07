@@ -87,4 +87,17 @@ function renderControls() {
     let controlNode = document.getElementById('controlTable')
     
     controlNode.innerHTML = controlTable
+
+    resizeForMobile();
+}
+
+function resizeForMobile() {
+    if(screen.width < 1000) {
+        // Probably a mobile device
+        document.querySelectorAll('.content').forEach(
+            article => {
+                article.style.width = '100%'
+            }
+        )
+    }
 }

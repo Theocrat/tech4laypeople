@@ -8,10 +8,8 @@ Finally, this is my first major project in the domain of HTML5, and I am eager t
 
 ### TODO for HTML, CSS and Javascript part
 
-  * Implement the font size changer
-  * Implement the font changer
-  * Implement the day/night mode changer.
   * Implement a more elegant way to return to the home page
+  * The site looks bare, maybe there is some way to make the UI/UX better?
 
 ### TODO for articles
 

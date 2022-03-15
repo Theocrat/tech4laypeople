@@ -4,14 +4,18 @@ function changefont() {
     let fontOption = document.getElementById('font-selector')
     let fontValue  = fontOption.value
     
-    console.log(`Function changefont called with value = "${fontValue}"`)
+    document.querySelectorAll('.content').forEach( textblock => {
+        textblock.style.fontFamily = fontValue
+    })
 }
 
 function changesize() {
     let sizeOption = document.getElementById('size-selector')
     let sizeValue  = sizeOption.value
     
-    console.log(`Function changesize called with value = "${sizeValue}"`)
+    document.querySelectorAll('.content').forEach( textblock => {
+        textblock.style.fontSize = `${sizeValue}px`
+    })
 }
 
 function nightmode() {
@@ -20,11 +24,21 @@ function nightmode() {
     if(mode == 'day') {
         mode = 'night'
         togglebutton.innerHTML = 'Day Mode'
+
+        document.querySelector('.header').style.color = 'white'
+        document.querySelector('.content').style.color = 'white'
+        document.querySelector('body').style.backgroundColor = 'black'
+        document.querySelector('.control-table').style.backgroundColor = 'black'
     }
     
     else {
         mode = 'day'
         togglebutton.innerHTML = 'Night Mode'
+
+        document.querySelector('.header').style.color = 'black'
+        document.querySelector('.content').style.color = 'black'
+        document.querySelector('body').style.backgroundColor = 'white'
+        document.querySelector('.control-table').style.backgroundColor = '#edd'
     }        
 }
 
@@ -59,8 +73,10 @@ const controlTable = `
 <tr>
     <td class="control">
         <select id="font-selector" onchange="changefont()">
-            <option value="arial">Arial</option>
-            <option value="sans" >Sans </option>
+            <option value="Serif" >Serif</option>
+            <option value="Sans">Sans Serif</option>
+            <option value="Arial">Arial</option>
+            <option value="Mono">Monospace</option>
         </select>
     </td>
     
